@@ -7,3 +7,5 @@ Question 1: How are AirBnB rentals distributed throughout the District of Columb
 
 Question 2:  Price vs Density; Does a high density of AirBnB's correlate with lower prices?
 =======
+
+Question 3. Can I make money on an AirBnB in DC
