@@ -8,4 +8,4 @@ Question 1: What is the distribution of AirBnB rentals throughout the District's
 
 Question 2: What is the average price of an AirBNB in relation to neighborhoods in D.C.?
 
-Question 3: Which neighborhood should an investor look at to establish a new AirBnB?
+Question 3: What are the trends of AirBnB availability of a calendar year?
