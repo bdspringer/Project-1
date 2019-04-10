@@ -6,6 +6,6 @@ This project will be an analysis of Air BnB data to help potential hosts make a 
 
 Question 1: What is the distribution of AirBnB rentals throughout the District's neighborhoods? Are there certain areas with concentrated rentals?
 
-Question 2: Price vs Density; Does a high density of AirBnB's correlate with lower prices?
+Question 2: What is the average price of an AirBNB in relation to neighborhoods in D.C.?
 
-Question 3: Annie's Project Question: "What is the price of AirBNB in relation to neighborhoods in D.C.?"
+Question 3: Which neighborhood should an investor look at to establish a new AirBnB?
