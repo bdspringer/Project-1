@@ -3,7 +3,7 @@
 
 In 2017, Washington D.C welcomed almost 23 million visitors, 91% of those from the US. Domestic travelers stayed an average of 2.6 nights in the city, while visitors from overseas enjoyed the nation’s capital for an average of six nights.  Traditionally, tourists would avail themselves of hotel rooms – and the District of Columbia has plenty to offer with 33,000+ rooms in 140 hotels. Despite record-breaking visitation, both the hotel occupancy and the average daily rate dropped (down 1.3% and 5.3%, respectively) in 2017. 
 
-Short-term rental sites like VRBO and AirBnB are providing alternatives for the app-savvy traveler. Washington DC boasted 21,870 listings on AirBnB in 2017  with occupancy rates at an estimated X%.  The number of listings is likely to continue to rise as people venture into becoming AirBnB investors (Full Disclosure: One of our team mates is exploring this as we data crunch!). 
+Short-term rental sites like VRBO and AirBnB are providing alternatives for the app-savvy traveler. Washington DC boasted 21,870 listings on AirBnB in 2017 (Our data set included 9000 rentals). The number of listings is likely to continue to rise as people venture into becoming AirBnB investors (Full Disclosure: One of our teammates is exploring this as we data crunch!). 
 
 AirBnBs rely on the hosts to set the per night price of the rental. Current rates are anywhere from $53 to $1200 per night. Hotels and other tourism-based business have embraced the laws of economics and regularly raise rates during peak seasons (Christmas, summer, Cherry Blossom, etc.). Using data from Insider AirBnB, our team will try to respond to the following questions:
 
