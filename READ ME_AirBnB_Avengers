@@ -1,0 +1,21 @@
+In 2017, Washington D.C welcomed almost 23 million visitors, 91% of those from the US. Domestic travelers stayed an average of 2.6 nights in the city, while visitors from overseas enjoyed the nation’s capital for an average of six nights.  Traditionally, tourists would avail themselves of hotel rooms – and the District of Columbia has plenty to offer with 33,000+ rooms in 140 hotels. Despite record-breaking visitation, both the hotel occupancy and the average daily rate dropped (down 1.3% and 5.3%, respectively) in 2017. 
+
+Short-term rental sites like VRBO and AirBnB are providing alternatives for the app-savvy traveler. Washington DC boasted 21,870 listings on AirBnB in 2017  with occupancy rates at an estimated X%.  The number of listings is likely to continue to rise as people venture into becoming AirBnB investors (Full Disclosure: One of our team mates is exploring this as we data crunch!). 
+
+AirBnBs rely on the hosts to set the per night price of the rental. Current rates are anywhere from $53 to $1200 per night. Hotels and other tourism-based business have embraced the laws of economics and regularly raise rates during peak seasons (Christmas, summer, Cherry Blossom, etc.). Using data from Insider AirBnB, our team will try to respond to the following questions:
+
+-What neighborhoods present a good potential investment for a new AirBnB listing?
+-
+
+Description of AirBnB Listings.pnybi
+
+In this file, we reviewed the data using pandas dataframes. We renamed columns and removed columns 
+that would not be useful to the intended analysis as well as merged files based on the Listings ID.
+
+Our focus was really on neighborhood trends, so we focused on visualizing neighborhood trends for the 
+remainder of the analysis.
+
+Visualization included a dataframe grouped by neighborhoods, as well a folium map of DC that leverages a 
+geojson file to outline neighborhoods (based on Air BnB definitions). We overlayed a heat map to demonstrate
+rental density by neighborhood and added markers to show key landmarks that renters may interest visitors to 
+the city.
