@@ -13,12 +13,12 @@ Question 2: What is the average price of an AirBNB in relation to neighborhoods 
 
 Question 3: Which neighborhoods present the best opportunities for a successful AirBnB investment?
 
-Description of AirBnB Listings.pnybi
+Description of Jupyter Notebook files:
 
-In this file, we reviewed the data using pandas dataframes. We renamed columns and removed columns that would not be useful to the intended analysis as well as merged files based on the Listings ID.
+We reviewed the data using pandas dataframes. We renamed columns and removed columns that would not be useful to the intended analysis as well as merged files based on the Listings ID.
 
 Our focus was really on neighborhood trends, so we focused on visualizing neighborhood trends for the remainder of the analysis.
 
-Visualization included a dataframe grouped by neighborhoods, as well a folium map of DC that leverages a geojson file to outline neighborhoods (based on Air BnB definitions). We overlayed a heat map to demonstrate rental density by neighborhood and added markers to show key landmarks that renters may interest visitors to the city.
+Visualization included dataframes grouped by neighborhoods to analyze rental medians, means, max, and min values as well as renatl density. We also looked at ratings, but all ratings seemed to trend high. Finally, we created a folium map of DC that leverages a geojson file to outline neighborhoods (based on Air BnB definitions). We overlayed a heat map to demonstrate rental density by neighborhood and added markers to show key landmarks that may interest visitors to the city.
 
 
